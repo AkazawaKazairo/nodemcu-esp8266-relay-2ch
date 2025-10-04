@@ -17,7 +17,7 @@ alat dan bahan:
 - jumper cable ftf 4 buah
 - kabel micro/type-c (sesuaikan dengan nodemcu)
 ---
-##cara menggunakan script ini ke nodemcu:
+## cara menggunakan script ini ke nodemcu:
 * pastikan nodemcu sudah terhubung ke pc/laptop
 * buka folder CH34x_Install_Windows_v3_4 disitu ada file installer klik 2x lalu klik install
 * lalu buka folder nodemcu-flasher-master>win64>release lalu klik 2x file esp8266flasher.exe
