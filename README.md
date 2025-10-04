@@ -3,6 +3,6 @@ project ini adalah project sekolah saya, dan project ini bisa diaplikasikan di m
 
 Script ini dibuat oleh [Ardi](https://github.com/AkazawaKazairo) 
 
-Jika kesalahan masih terjadi bahkan setelah debugging, silakan hubungi saya untuk mendapatkan bantuan. ~ By Ardii
+Jika kesalahan masih terjadi bahkan setelah compile/verify, silakan hubungi saya untuk mendapatkan bantuan. ~ By Ardii
 ---
 
