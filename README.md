@@ -2,6 +2,7 @@
 project ini adalah project sekolah saya, dan project ini bisa diaplikasikan di mana saja bukan hanya sekedar lampu.
 
 Script ini dibuat oleh [Ardi](https://github.com/AkazawaKazairo) 
+
 Jika kesalahan masih terjadi bahkan setelah debugging, silakan hubungi saya untuk mendapatkan bantuan. ~ By Ardii
 ---
 
