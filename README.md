@@ -3,7 +3,7 @@ project ini adalah project sekolah saya, dan project ini bisa diaplikasikan di m
 
 big thanks to:
 - Allah SWT
-- pak fandy mahesa
+- pak fandy mahesa (guru mapel IOT)
 - Sekolah Multistudi High School
 - dan kawan kawan IOT sekelompok 3
 
