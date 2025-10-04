@@ -33,3 +33,12 @@ alat dan bahan:
 * setelah itu, install boards manager blynk dan esp8266
 * sesuaikan template_id template_name dan auth_token
 * tes file dengan klik logo centang di atas kiri, jika bisa langsung saja flash ke esp8266
+---
+#### skema wiring dari relay ke esp8266
+| relay | esp8266 |
+|--------|--------|
+| gnd | g |
+| vcc | vin |
+| in1 | d1 |
+| in2| d2 |
+---
