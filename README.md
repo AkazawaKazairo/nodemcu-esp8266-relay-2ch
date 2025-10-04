@@ -10,3 +10,8 @@ Jika kesalahan masih terjadi bahkan setelah compile/verify, silakan hubungi saya
 |--------|--------|
 | v0 | d1 |
 | v1 | d2 |
+---
+alat dan bahan:
+- nodemcu esp8266 v3 (wemos d1 mini pro)
+- relay 2ch
+- jumper cable ftf 4 buah
