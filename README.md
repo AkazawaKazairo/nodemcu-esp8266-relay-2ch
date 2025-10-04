@@ -42,3 +42,4 @@ alat dan bahan:
 | in1 | d1 |
 | in2| d2 |
 ---
+### terima kasih sudah membaca hingga akhir~
