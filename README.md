@@ -15,3 +15,4 @@ alat dan bahan:
 - nodemcu esp8266 v3 (wemos d1 mini pro)
 - relay 2ch
 - jumper cable ftf 4 buah
+- kabel micro/type-c (sesuaikan dengan nodemcu)
