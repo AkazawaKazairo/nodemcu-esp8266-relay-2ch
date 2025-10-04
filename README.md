@@ -1,6 +1,8 @@
 # PROJECT SAKLAR OTOMATIS MENGGUNAKAN APLIKASI BLYNK MENGGUNAKAN RELAY 2CH DAN ESP8266V3 (WEMOS D1 MINI PRO)
 project ini adalah project sekolah saya, dan project ini bisa diaplikasikan di mana saja bukan hanya sekedar lampu.
 
+ini versi yang 2 relayy yaa, ada yang versi 4 relayy cek repository akuu~
+
 big thanks to:
 - Allah SWT
 - pak fandy mahesa (guru mapel IOT)
