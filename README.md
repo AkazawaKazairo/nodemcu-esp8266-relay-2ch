@@ -7,7 +7,7 @@ big thanks to:
 - Sekolah Multistudi High School
 - dan kawan kawan IOT sekelompok 3
 
-Script ini dibuat oleh [Ardi](https://wa.me/62851177732330). Jika terjadi error bahkan setelah compile/verify, silakan hubungi saya untuk mendapatkan bantuan. ~ By Ardii
+Script ini dibuat oleh [Ardi](https://wa.me/6285117732330). Jika terjadi error bahkan setelah compile/verify, silakan hubungi saya untuk mendapatkan bantuan. ~ By Ardii
 ---
 #### datastream blynk hingga ke pin esp8266
 | datastream | pin esp8266 |
